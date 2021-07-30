@@ -38,11 +38,13 @@ body {
 .header-logo-1 {
   max-height: 80px;
   margin-top: 32px;
+  cursor: pointer;
 }
 .header-logo-2 {
   max-height: 80px;
   margin-top: 32px;
   display: none;
+  cursor: pointer;
 }
 
 @media only screen and (max-width: 1400px) {
