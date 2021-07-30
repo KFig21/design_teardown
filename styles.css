@@ -11,11 +11,11 @@
   font-size: inherit;
 }
 
-@import url(//db.onlinewebfonts.com/c/4fb2accf874593635afa99c122467fd6?family=MijaW03-Regular);
+@import url(https://db.onlinewebfonts.com/c/4fb2accf874593635afa99c122467fd6?family=MijaW03-Regular);
 
 @font-face {
   font-family: MijaW03-Regular;
-  src: url("//db.onlinewebfonts.com/c/4fb2accf874593635afa99c122467fd6?family=MijaW03-Regular")
+  src: url("https://db.onlinewebfonts.com/c/4fb2accf874593635afa99c122467fd6?family=MijaW03-Regular")
     format("truetype");
 }
 
