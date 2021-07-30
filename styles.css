@@ -11,19 +11,11 @@
   font-size: inherit;
 }
 
-@import url(https://db.onlinewebfonts.com/c/4fb2accf874593635afa99c122467fd6?family=MijaW03-Regular);
-
-@font-face {
-  font-family: MijaW03-Regular;
-  src: url("https://db.onlinewebfonts.com/c/4fb2accf874593635afa99c122467fd6?family=MijaW03-Regular")
-    format("truetype");
-}
-
 body {
   background-color: white;
   color: black;
   margin: 0%;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   overflow-x: hidden;
 }
 
@@ -98,7 +90,7 @@ body {
   padding: 10px 16px;
   margin-left: 15px;
   border-radius: 11px;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   font-weight: 700;
   display: flex;
   align-items: center;
@@ -144,7 +136,7 @@ body {
   width: 283px;
   padding: 16px 15px;
   font-size: 22px;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   font-weight: 700;
   border: none;
   outline: none;
@@ -334,7 +326,7 @@ body {
   color: var(--primary-red);
   font-size: 18px;
   font-weight: 700;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   font-style: normal;
   text-decoration: underline solid 1px var(--primary-red);
   margin-right: 6px;
@@ -345,7 +337,7 @@ body {
   font-size: 48px;
   line-height: 58px;
   font-weight: 900;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   color: #333333;
   margin: 16px 0px;
   cursor: pointer;
@@ -370,7 +362,7 @@ body {
   color: #676666;
   font-size: 17px;
   font-weight: 700;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   font-style: normal;
   text-decoration: underline solid 1px #676666;
   margin-right: 6px;
@@ -391,7 +383,7 @@ body {
   color: var(--primary-red);
   font-size: 20px;
   font-weight: 700;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   font-style: normal;
   text-decoration: underline solid 1px var(--primary-red);
   cursor: pointer;
@@ -481,7 +473,7 @@ body {
   color: var(--primary-red);
   font-size: 18px;
   font-weight: 700;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   font-style: normal;
   text-decoration: underline solid 1px var(--primary-red);
   margin-right: 6px;
@@ -499,7 +491,7 @@ body {
   font-size: 38px;
   line-height: 40px;
   font-weight: 900;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   color: #333333;
   margin: 16px 0px 0px 0px;
   cursor: pointer;
@@ -594,7 +586,7 @@ body {
   background-color: white;
   color: var(--primary-red);
   font-weight: 900;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   border-radius: 11px;
   padding: 12px;
   box-shadow: rgba(0, 0, 0, 0.12) 0px 2px 6px 0px;
@@ -658,7 +650,7 @@ body {
   border-bottom-right-radius: 11px;
   font-weight: 700;
   width: 34%;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   cursor: pointer;
 }
 
@@ -690,7 +682,7 @@ body {
   font-size: 34px;
   line-height: 40px;
   font-weight: 900;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   text-decoration: underline solid 1px;
   cursor: pointer;
 }
@@ -707,7 +699,7 @@ body {
   font-size: 24px;
   line-height: 30px;
   font-weight: 900;
-  font-family: "MijaW03-Regular";
+  font-family: "Varela Round";
   background-color: #cfcfcf;
   border-radius: 11px;
   padding: 15px 30px;
