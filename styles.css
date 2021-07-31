@@ -790,6 +790,7 @@ body {
   line-height: 44px;
   font-family: "Faustina";
   display: inline-block;
+  cursor: pointer;
 }
 
 .footer-li::before {
